@@ -51,7 +51,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             let results = sceneView.hitTest(touchLocation, types: .existingPlane)
             
             if let hitResult = results.first {
-                addDice(location: hitResult)git 
+                addDice(location: hitResult)
             }
         }
     }
