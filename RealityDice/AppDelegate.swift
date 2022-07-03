@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ARDice
+//  RealityDice
 //
-//  Created by William Bikuta on 29.06.22.
+//  Created by William Bikuta on 03.07.22.
 //
 
 import UIKit
